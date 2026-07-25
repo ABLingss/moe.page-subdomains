@@ -1,1 +1,14 @@
 
+{
+  "owner": {
+    "username": "qsdv9178",
+    "email": ""
+  },
+  "domain": "luna",
+  "records": {
+    "A": [
+      "1.2.3.4"
+    ]
+  },
+  "proxied": false
+}
