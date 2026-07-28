@@ -1,10 +1,9 @@
-
 {
   "owner": {
     "username": "qsdv9178",
     "email": ""
   },
-  "avd": "luna",
+  "domain": "luna",
   "records": {
     "A": [
       "23.27.0.247"
