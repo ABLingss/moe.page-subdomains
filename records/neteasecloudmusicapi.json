@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "MoeFurina",
+    "email": "noreply@focalors.ltd"
+  },
+  "domain": "neteasecloudmusicapi",
+  "records": {
+    "CNAME": [
+      "neteasecloudmusicapienhanced.github.io/api-doc"
+    ]
+  },
+  "proxied": false
+}
