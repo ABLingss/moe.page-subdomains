@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "skykoderhere",
+    "email": "biswanathdas8307@gmail.com"
+  },
+  "domain": "pawjects",
+  "records": {
+    "CNAME": [
+      "pawjects.github.io"
+    ]
+  },
+  "proxied": false
+}
