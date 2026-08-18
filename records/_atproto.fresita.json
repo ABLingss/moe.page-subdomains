@@ -1,0 +1,12 @@
+{
+  "owner": {
+    "username": "Vliysl"
+  },
+  "domain": "_atproto.fresita",
+  "records": {
+    "TXT": [
+      "did=did:plc:4teexd5ceilzruvgtvm4fkcy"
+    ]
+  },
+  "proxied": false
+}
