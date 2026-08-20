@@ -1,0 +1,11 @@
+{
+  "owner": {
+    "username": "22senlin",
+    "email": "jjetwang@gmail.com"
+  },
+  "domain": "forest",
+  "records": {
+    "CNAME": "22senlin-github-io.jjetwang.workers.dev"
+  },
+  "proxied": false
+}
