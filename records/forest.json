@@ -5,7 +5,7 @@
   },
   "domain": "forest",
   "records": {
-    "CNAME": "22senlin-github-io.jjetwang.workers.dev"
+    "CNAME": "22senlin.github.io"
   },
   "proxied": false
 }
