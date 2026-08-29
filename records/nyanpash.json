@@ -1,0 +1,11 @@
+{
+    "owner": {
+        "username": "moefc32",
+        "email": "hai@mf-chan.com"
+    },
+    "domain": "nyanpash",
+    "records": {
+        "CNAME": "moefc32.github.io"
+    },
+    "proxied": true
+}
